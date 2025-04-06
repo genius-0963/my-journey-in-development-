@@ -1,7 +1,7 @@
 # GSoC 2025 - My Journey and Experience
 
 ## 📘 About Me
-I'm **Saurabh Kumar**, a passionate developer and technology enthusiast currently pursuing my studies at IIIT Allahabad. With a strong foundation in JavaScript, React.js, Node.js, and MongoDB, I have worked on multiple projects that demonstrate my skills in web development, mobile applications, and system design. My curiosity and drive have led me to explore various frameworks, libraries, and tools to build impactful solutions.
+I'm **Saurabh Kumar**, a passionate developer and technology enthusiast currently pursuing my studies at IIIT Allahabad. With a strong foundation in JavaScript, React.js, Node.js, and MongoDB, I have worked on several impactful projects.
 
 ---
 
@@ -83,7 +83,7 @@ A platform designed for collecting and organizing previous year notes and questi
 ---
 
 ## 🤝 Community Contributions
-I actively contribute to open-source projects and participate in technical events such as **Effervescence at IIIT Allahabad**, where I volunteered in the **Hospitality Department** and had memorable interactions with artists like **Olly Esse**.
+I actively contribute to open-source projects and participate in technical events such as **Effervescence at IIIT Allahabad**, where I volunteered in the **Hospitality Department** and had memorable interactions with fellow developers.
 
 ---
 
@@ -97,10 +97,9 @@ Through my GSoC 2025 journey, I aim to:
 
 ## 📧 Contact
 For any inquiries, collaborations, or discussions, feel free to reach out to me:
-- Email: [iec2023016@gmail.com](mailto:iec2023016@)
+- Email: [iec2023016@gmail.com](mailto:iec2023016@gmail.com)
 - LinkedIn: [Saurabh Kumar](https://www.linkedin.com/in/saurabh-kumar-0963)
 
 ---
 
 _"Turning ideas into impactful solutions, one line of code at a time."_
-
