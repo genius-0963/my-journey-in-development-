@@ -97,7 +97,7 @@ Through my GSoC 2025 journey, I aim to:
 
 ## 📧 Contact
 For any inquiries, collaborations, or discussions, feel free to reach out to me:
-- Email: [iec2023016@](mailto:iec2023016@)
+- Email: [iec2023016@gmail.com](mailto:iec2023016@)
 - LinkedIn: [Saurabh Kumar](https://www.linkedin.com/in/saurabh-kumar-0963)
 
 ---
